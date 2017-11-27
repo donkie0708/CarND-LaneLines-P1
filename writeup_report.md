@@ -33,7 +33,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 
 One potential shortcoming would be what would happen when encountering a sharp turn where ROI is no longer accurate.
-And the way to determine one single line make no sence for obvious reason.
+And the way to determine one single line makes no sense for obvious reason.
 
 Another shortcoming I can think of is lane detection could be affected by the obstacle(say one car is on the lane for a period of time)
 
